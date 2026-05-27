@@ -12,6 +12,7 @@ node_modules - Copy
 dist
 dist-ssr
 *.local
+uploads/
 
 # Editor directories and files
 .vscode/*
@@ -26,3 +27,8 @@ dist-ssr
 
 # Copy files
 package-lock - Copy.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
